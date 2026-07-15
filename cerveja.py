@@ -30,7 +30,7 @@ model.fit(X=X, y=y)
 
 # %%
 
-# a baixo vai mostrar a arvore de decisão gerada pelo modelo, com as características e classes correspondentes.
+# a baixo vai mostrar a arvore de decisão gerada pelo modelo, com as características e classes correspondentes. 
 import matplotlib.pyplot as plt
 
 plt.figure(dpi=400)
