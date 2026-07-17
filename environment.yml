@@ -1,0 +1,19 @@
+name: curso-ml-atual
+channels:
+  - defaults
+dependencies:
+  - python=3.14
+  - scikit-learn
+  - jupyter
+  - pandas=3.0.3
+  - matplotlib
+  - ipykernel
+  - numpy
+  - jupyter_client
+  - pyzmq
+  - tornado
+  - traitlets
+  - jupyter_core
+  - openpyxl
+  - pyarrow
+
